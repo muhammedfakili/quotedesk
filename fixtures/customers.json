@@ -1,0 +1,15 @@
+{
+  "_note": "Fictional customers. Known senders are recognised by email domain; anyone else is quoted as a new 'retail' customer on prepaid terms and the quote is flagged.",
+  "customers": [
+    {"id": "C001", "company": "Aire Valley Mechanical Ltd", "domain": "airevalleymech.example", "type": "contractor", "terms": "net30", "currency": "GBP"},
+    {"id": "C002", "company": "Brightwater Facilities Management", "domain": "brightwaterfm.example", "type": "trade", "terms": "net30", "currency": "GBP"},
+    {"id": "C003", "company": "Kessler Anlagenbau GmbH", "domain": "kessler-anlagenbau.example", "type": "oem", "terms": "net60", "currency": "EUR"},
+    {"id": "C004", "company": "Harrow & Finch Electrical", "domain": "harrowfinch.example", "type": "contractor", "terms": "net30", "currency": "GBP"},
+    {"id": "C005", "company": "Dunmore Process Engineering", "domain": "dunmore-process.example", "type": "oem", "terms": "net60", "currency": "GBP"},
+    {"id": "C006", "company": "Ridgeway Building Services", "domain": "ridgewaybs.example", "type": "trade", "terms": "prepaid", "currency": "GBP"},
+    {"id": "C007", "company": "Atlantic Marine Fabrication Inc", "domain": "atlanticmarinefab.example", "type": "oem", "terms": "net30", "currency": "USD"},
+    {"id": "C008", "company": "St Aidan's Academy Trust (Estates)", "domain": "staidans-trust.example", "type": "trade", "terms": "net30", "currency": "GBP"},
+    {"id": "C009", "company": "Moorside Plumbing & Heating", "domain": "moorsideph.example", "type": "contractor", "terms": "prepaid", "currency": "GBP"},
+    {"id": "C010", "company": "Van der Berg Installatietechniek BV", "domain": "vdberg-installatie.example", "type": "contractor", "terms": "net30", "currency": "EUR"}
+  ]
+}

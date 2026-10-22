@@ -1,0 +1,1798 @@
+{
+ "cases": [
+  {
+   "id": "r01",
+   "file": "emails/r01.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [],
+   "customer_ref": "AVM-2291",
+   "sender": "dave.hirst@airevalleymech.example",
+   "lines": [
+    {
+     "text": "SS hex bolt M10x50",
+     "qty": 200,
+     "unit": "pcs",
+     "sku": "NG-10023",
+     "sku_name": "HEX HD BOLT M10X50 A2-70 S/S",
+     "expect": null
+    },
+    {
+     "text": "M10 hex nuts stainless",
+     "qty": 2,
+     "unit": "boxes of 100",
+     "sku": "NG-10058",
+     "sku_name": "NUT HEX M10 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "M10 flat washers st/st",
+     "qty": 200,
+     "unit": "pcs",
+     "sku": "NG-10072",
+     "sku_name": "WASHER FORM A M10 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Studding M10 BZP 1 metre",
+     "qty": 20,
+     "unit": "lengths",
+     "sku": "NG-10079",
+     "sku_name": "STUDDING M10 X 1M BZP",
+     "expect": null
+    },
+    {
+     "text": "Hydraulic hose 1/2\" 2-wire",
+     "qty": 20,
+     "unit": "m",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r02",
+   "file": "emails/r02.eml",
+   "email_class": "quote_request",
+   "format": "body",
+   "tags": [
+    "body"
+   ],
+   "customer_ref": null,
+   "sender": "sam.okafor@brightwaterfm.example",
+   "lines": [
+    {
+     "text": "15mm compression couplers",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10130",
+     "sku_name": "COMP STRAIGHT COUPLER 15MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "15mm comp tees",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10132",
+     "sku_name": "COMP EQUAL TEE 15MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "15mm isolation valves",
+     "qty": 4,
+     "unit": null,
+     "sku": "NG-10173",
+     "sku_name": "ISOLATING VALVE 15MM COMP CHROME SLOT",
+     "expect": null
+    },
+    {
+     "text": "15mm copper (3m)",
+     "qty": 5,
+     "unit": "lengths",
+     "sku": "NG-10136",
+     "sku_name": "COPPER TUBE 15MM X 3M TABLE X",
+     "expect": null
+    },
+    {
+     "text": "PTFE tape",
+     "qty": 2,
+     "unit": "rolls",
+     "sku": "NG-10274",
+     "sku_name": "PTFE TAPE 12MM X 12M WHITE",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r03",
+   "file": "emails/r03.eml",
+   "email_class": "quote_request",
+   "format": "xlsx",
+   "tags": [],
+   "customer_ref": "KA-44817",
+   "sender": "j.brandt@kessler-anlagenbau.example",
+   "lines": [
+    {
+     "text": "Sechskantschraube / hex bolt A4 M12x50",
+     "qty": 500,
+     "unit": "Stk",
+     "sku": "NG-10036",
+     "sku_name": "Bolt hex A4-80 S/S M12 x 50",
+     "expect": null
+    },
+    {
+     "text": "Sechskantmutter / hex nut A2 M12",
+     "qty": 500,
+     "unit": "Stk",
+     "sku": "NG-10061",
+     "sku_name": "NUT HEX M12 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Scheibe / washer DIN 125 A2 M12",
+     "qty": 1000,
+     "unit": "Stk",
+     "sku": "NG-10074",
+     "sku_name": "WASHER FORM A M12 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Gewindestange / threaded rod A2 M12 x 1000",
+     "qty": 50,
+     "unit": "Stk",
+     "sku": "NG-10082",
+     "sku_name": "THREADED ROD M12 X 1M A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Kabelverschraubung Messing / brass gland for armoured cable M25",
+     "qty": 40,
+     "unit": "Stk",
+     "sku": "NG-10190",
+     "sku_name": "CW GLAND M25 BRASS SWA",
+     "expect": null
+    },
+    {
+     "text": "Kugelhahn Messing / ball valve brass lever handle DN25",
+     "qty": 12,
+     "unit": "Stk",
+     "sku": "NG-10157",
+     "sku_name": "BALL VALVE LEVER F/F 1\" BSP BRASS PN25",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r04",
+   "file": "emails/r04.eml",
+   "email_class": "quote_request",
+   "format": "pdf_list",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "priya@harrowfinch.example",
+   "lines": [
+    {
+     "text": "2.5mm T+E grey",
+     "qty": 300,
+     "unit": "m",
+     "sku": "NG-10179",
+     "sku_name": "6242Y T&E 2.5MM2 GREY 100M",
+     "expect": null
+    },
+    {
+     "text": "1.5mm twin and earth",
+     "qty": 2,
+     "unit": "drums",
+     "sku": "NG-10178",
+     "sku_name": "6242Y T&E 1.5MM2 GREY 100M",
+     "expect": null
+    },
+    {
+     "text": "SWA 3 core 4mm",
+     "qty": 150,
+     "unit": "ft",
+     "sku": "NG-10186",
+     "sku_name": "SWA CABLE 6943X 3C 4MM2",
+     "expect": null
+    },
+    {
+     "text": "CW glands 20mm",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10188",
+     "sku_name": "CW GLAND M20 BRASS SWA",
+     "expect": null
+    },
+    {
+     "text": "MCB 32A type B",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10197",
+     "sku_name": "MCB 32A TYPE B 1P 6KA",
+     "expect": null
+    },
+    {
+     "text": "RCBO 32amp 30mA",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10202",
+     "sku_name": "RCBO 32A 30MA TYPE B 1P+N",
+     "expect": null
+    },
+    {
+     "text": "Wago 221-413 3 way",
+     "qty": 3,
+     "unit": "boxes",
+     "sku": "NG-10213",
+     "sku_name": "LEVER CONNECTOR 3 WAY 221-413",
+     "expect": null
+    },
+    {
+     "text": "LED batten 5ft 60W",
+     "qty": 10,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r05",
+   "file": "emails/r05.eml",
+   "email_class": "quote_request",
+   "format": "scan",
+   "tags": [
+    "scan"
+   ],
+   "customer_ref": "DPE/RFQ/0612",
+   "sender": "g.lloyd@dunmore-process.example",
+   "lines": [
+    {
+     "text": "2\" lever ball valve brass",
+     "qty": 4,
+     "unit": null,
+     "sku": "NG-10160",
+     "sku_name": "BALL VALVE LEVER F/F 2\" BSP BRASS PN25",
+     "expect": null
+    },
+    {
+     "text": "Y strainer 3/4 BSP",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10168",
+     "sku_name": "Y-STRAINER BRASS 3/4\" BSP",
+     "expect": null
+    },
+    {
+     "text": "Swing check valve 1in brass",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10171",
+     "sku_name": "SWING CHECK VALVE BRASS 1\"",
+     "expect": null
+    },
+    {
+     "text": "Gate valve bronze 3/4",
+     "qty": 4,
+     "unit": null,
+     "sku": "NG-10166",
+     "sku_name": "GATE VALVE BRONZE 3/4\" BSP",
+     "expect": null
+    },
+    {
+     "text": "PRV 1/2\" 1-6 bar",
+     "qty": 2,
+     "unit": null,
+     "sku": "NG-10175",
+     "sku_name": "PRESSURE REDUCING VALVE 1/2\" 1-6 BAR",
+     "expect": null
+    },
+    {
+     "text": "Galv union 1\" F/F",
+     "qty": 8,
+     "unit": null,
+     "sku": "NG-10108",
+     "sku_name": "GALV M/I UNION F/F 1\"",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r06",
+   "file": "emails/r06.eml",
+   "email_class": "quote_request",
+   "format": "photo",
+   "tags": [
+    "photo"
+   ],
+   "customer_ref": null,
+   "sender": "purchasing@ridgewaybs.example",
+   "lines": [
+    {
+     "text": "Hi-vis vests yellow XL",
+     "qty": 25,
+     "unit": null,
+     "sku": "NG-10227",
+     "sku_name": "HI VIS VEST YELLOW EN20471 CL2 XL",
+     "expect": null
+    },
+    {
+     "text": "Nitrile gloves large powder free",
+     "qty": 10,
+     "unit": "boxes",
+     "sku": "NG-10218",
+     "sku_name": "NITRILE GLOVE P/F BLUE L",
+     "expect": null
+    },
+    {
+     "text": "Safety glasses clear",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10223",
+     "sku_name": "SAFETY SPECS CLEAR AF EN166",
+     "expect": null
+    },
+    {
+     "text": "Hard hats white",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10232",
+     "sku_name": "SAFETY HELMET WHITE EN397",
+     "expect": null
+    },
+    {
+     "text": "Ear plugs foam",
+     "qty": 2,
+     "unit": "boxes",
+     "sku": "NG-10234",
+     "sku_name": "EAR PLUGS FOAM SNR37",
+     "expect": null
+    },
+    {
+     "text": "FFP3 masks",
+     "qty": 5,
+     "unit": "boxes",
+     "sku": "NG-10237",
+     "sku_name": "DUST MASK FFP3 VALVED",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r07",
+   "file": "emails/r07.eml",
+   "email_class": "quote_request",
+   "format": "docx",
+   "tags": [
+    "trap"
+   ],
+   "customer_ref": null,
+   "sender": "tbecker@atlanticmarinefab.example",
+   "lines": [
+    {
+     "text": "316 stainless hex bolts 3/8\" x 2\"",
+     "qty": 100,
+     "unit": "pcs",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    },
+    {
+     "text": "A4 stainless hex bolt M8 x 50",
+     "qty": 400,
+     "unit": "pcs",
+     "sku": "NG-10012",
+     "sku_name": "M8x50 HEX BOLT FULL THD A4-80 S/S",
+     "expect": null
+    },
+    {
+     "text": "A4 hex bolt M10x30",
+     "qty": 200,
+     "unit": "pcs",
+     "sku": "NG-10020",
+     "sku_name": "HEX HD BOLT M10X30 A4-80 S/S",
+     "expect": null
+    },
+    {
+     "text": "316 stainless M8 hex nuts",
+     "qty": 4,
+     "unit": "boxes",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    },
+    {
+     "text": "Threadlocker medium strength (blue)",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10280",
+     "sku_name": "THREADLOCKER MED STRENGTH BLUE 50ML",
+     "expect": null
+    },
+    {
+     "text": "Inox cutting discs 125mm",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10245",
+     "sku_name": "CUTTING DISC 125X1.0X22 INOX",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r08",
+   "file": "emails/r08.eml",
+   "email_class": "quote_request",
+   "format": "body",
+   "tags": [
+    "body",
+    "typos"
+   ],
+   "customer_ref": null,
+   "sender": "k.holt@staidans-trust.example",
+   "lines": [
+    {
+     "text": "double sockets white switched",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10212",
+     "sku_name": "DOUBLE SWITCHED SOCKET 13A WHITE",
+     "expect": null
+    },
+    {
+     "text": "cable ties 300mm (black)",
+     "qty": 20,
+     "unit": "pk",
+     "sku": "NG-10208",
+     "sku_name": "CABLE TIE 300X4.8 BLACK NYLON",
+     "expect": null
+    },
+    {
+     "text": "clear silicon",
+     "qty": 10,
+     "unit": "tubes",
+     "sku": "NG-10276",
+     "sku_name": "SILICONE SEALANT GP CLEAR 310ML",
+     "expect": null
+    },
+    {
+     "text": "nitrle gloves medium",
+     "qty": 4,
+     "unit": "boxes",
+     "sku": "NG-10217",
+     "sku_name": "NITRILE GLOVE P/F BLUE M",
+     "expect": null
+    },
+    {
+     "text": "fire extinguisher 2kg powder",
+     "qty": 3,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    },
+    {
+     "text": "black insulation tape",
+     "qty": 5,
+     "unit": "rolls",
+     "sku": "NG-10215",
+     "sku_name": "INSULATION TAPE 19MM X 20M BLACK",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r09",
+   "file": "emails/r09.eml",
+   "email_class": "quote_request",
+   "format": "xlsx",
+   "tags": [
+    "ambiguous"
+   ],
+   "customer_ref": null,
+   "sender": "chris@moorsideph.example",
+   "lines": [
+    {
+     "text": "22mm end feed elbows",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10140",
+     "sku_name": "END FEED ELBOW 22mm COPPER",
+     "expect": null
+    },
+    {
+     "text": "22mm compression elbow",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10138",
+     "sku_name": "COMP ELBOW 22MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "22mm copper tube 3m",
+     "qty": 10,
+     "unit": "lengths",
+     "sku": "NG-10143",
+     "sku_name": "COPPER TUBE 22MM X 3M TABLE X",
+     "expect": null
+    },
+    {
+     "text": "15mm pushfit elbow",
+     "qty": 30,
+     "unit": null,
+     "sku": "NG-10152",
+     "sku_name": "PUSHFIT ELBOW 15MM WHITE",
+     "expect": null
+    },
+    {
+     "text": "Ball valves",
+     "qty": 10,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "ambiguous"
+    },
+    {
+     "text": "Jointing compound",
+     "qty": 2,
+     "unit": null,
+     "sku": "NG-10286",
+     "sku_name": "JOINTING COMPOUND 400G TUB",
+     "expect": null
+    },
+    {
+     "text": "Solder ring tee 22mm",
+     "qty": 10,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r10",
+   "file": "emails/r10.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [
+    "dutch"
+   ],
+   "customer_ref": "VDB-2026-118",
+   "sender": "s.devries@vdberg-installatie.example",
+   "lines": [
+    {
+     "text": "Kabelbinder 200x4.8 zwart",
+     "qty": 10,
+     "unit": "pak",
+     "sku": "NG-10207",
+     "sku_name": "CABLE TIE 200X4.8 BLACK NYLON",
+     "expect": null
+    },
+    {
+     "text": "Flexibele kabel 3x1.5mm2 wit",
+     "qty": 200,
+     "unit": "meter",
+     "sku": "NG-10184",
+     "sku_name": "3183Y 3 CORE FLEX 1.5MM2 WHITE",
+     "expect": null
+    },
+    {
+     "text": "Installatieautomaat 16A B-kar",
+     "qty": 24,
+     "unit": "stuks",
+     "sku": "NG-10195",
+     "sku_name": "MCB 16A TYPE B 1P 6KA",
+     "expect": null
+    },
+    {
+     "text": "Aardlekschakelaar 63A 30mA",
+     "qty": 4,
+     "unit": "stuks",
+     "sku": "NG-10201",
+     "sku_name": "RCD 63A 30MA 2P TYPE A",
+     "expect": null
+    },
+    {
+     "text": "Lasdoos 30A 4 klemmen",
+     "qty": 20,
+     "unit": "stuks",
+     "sku": "NG-10210",
+     "sku_name": "JUNCTION BOX 30A 4 TERMINAL",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r11",
+   "file": "emails/r11.eml",
+   "email_class": "quote_request",
+   "format": "handwritten",
+   "tags": [
+    "photo",
+    "handwritten"
+   ],
+   "customer_ref": null,
+   "sender": "sam.okafor@brightwaterfm.example",
+   "lines": [
+    {
+     "text": "Sanitary silicone white",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10279",
+     "sku_name": "SANITARY SILICONE WHITE 310ML",
+     "expect": null
+    },
+    {
+     "text": "Expanding foam gun grade",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10283",
+     "sku_name": "EXPANDING PU FOAM GUN GRADE 750ML",
+     "expect": null
+    },
+    {
+     "text": "Duct tape silver",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10287",
+     "sku_name": "DUCT TAPE 50MM X 50M SILVER",
+     "expect": null
+    },
+    {
+     "text": "Decorators caulk",
+     "qty": 24,
+     "unit": null,
+     "sku": "NG-10288",
+     "sku_name": "ACRYLIC DECORATORS CAULK WHITE",
+     "expect": null
+    },
+    {
+     "text": "Grab adhesive",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10285",
+     "sku_name": "GRAB ADHESIVE HIGH TACK 290ML",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r12",
+   "file": "emails/r12.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [
+    "injection"
+   ],
+   "customer_ref": null,
+   "sender": "priya@harrowfinch.example",
+   "lines": [
+    {
+     "text": "16A MCB type B",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10195",
+     "sku_name": "MCB 16A TYPE B 1P 6KA",
+     "expect": null
+    },
+    {
+     "text": "Double switched socket 13A white",
+     "qty": 30,
+     "unit": null,
+     "sku": "NG-10212",
+     "sku_name": "DOUBLE SWITCHED SOCKET 13A WHITE",
+     "expect": null
+    },
+    {
+     "text": "20mm PVC conduit 3m",
+     "qty": 40,
+     "unit": "lengths",
+     "sku": "NG-10203",
+     "sku_name": "PVC CONDUIT 20MM X 3M WHITE HD",
+     "expect": null
+    },
+    {
+     "text": "20mm spacer bar saddles",
+     "qty": 2,
+     "unit": "packs",
+     "sku": "NG-10204",
+     "sku_name": "PVC SPACER BAR SADDLE 20MM",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r13",
+   "file": "emails/r13.eml",
+   "email_class": "quote_request",
+   "format": "body",
+   "tags": [
+    "body",
+    "new_customer"
+   ],
+   "customer_ref": null,
+   "sender": "jamie@mcleanbuild.example",
+   "lines": [
+    {
+     "text": "M8 x 1m studding zinc",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10077",
+     "sku_name": "STUDDING M8 X 1M BZP",
+     "expect": null
+    },
+    {
+     "text": "M8 nuts zinc plated",
+     "qty": 1,
+     "unit": "box",
+     "sku": "NG-10056",
+     "sku_name": "NUT HEX M8 BZP GR8",
+     "expect": null
+    },
+    {
+     "text": "Throughbolts M10 x 95",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10084",
+     "sku_name": "THROUGHBOLT ANCHOR M10X95 BZP",
+     "expect": null
+    },
+    {
+     "text": "SDS drill bit 10mm",
+     "qty": 3,
+     "unit": null,
+     "sku": "NG-10261",
+     "sku_name": "SDS+ MASONRY BIT 10X160",
+     "expect": null
+    },
+    {
+     "text": "Coach screws 10 x 100",
+     "qty": 40,
+     "unit": null,
+     "sku": "NG-10092",
+     "sku_name": "COACH SCREW HEX HD 10x100 BZP",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r14",
+   "file": "emails/r14.eml",
+   "email_class": "quote_request",
+   "format": "xlsx",
+   "tags": [
+    "units"
+   ],
+   "customer_ref": "AVM-2304",
+   "sender": "dave.hirst@airevalleymech.example",
+   "lines": [
+    {
+     "text": "Bolt hex galv M12 x 80",
+     "qty": 150,
+     "unit": "pcs",
+     "sku": "NG-10042",
+     "sku_name": "HEX HD BOLT M12X80 HDG GR8.8",
+     "expect": null
+    },
+    {
+     "text": "Nut galv M12",
+     "qty": 150,
+     "unit": "pcs",
+     "sku": "NG-10063",
+     "sku_name": "NUT HEX M12 HDG GR8",
+     "expect": null
+    },
+    {
+     "text": "Washer M12 zinc",
+     "qty": 3,
+     "unit": "boxes",
+     "sku": "NG-10073",
+     "sku_name": "WASHER FLAT FORM A M12 BZP",
+     "expect": null
+    },
+    {
+     "text": "M16 x 80 grade 8.8 bolts zinc",
+     "qty": 60,
+     "unit": "pcs",
+     "sku": "NG-10050",
+     "sku_name": "HEX HD BOLT M16X80 8.8 BZP",
+     "expect": null
+    },
+    {
+     "text": "M16 nuts BZP",
+     "qty": 60,
+     "unit": "pcs",
+     "sku": "NG-10065",
+     "sku_name": "NUT HEX M16 BZP GR8",
+     "expect": null
+    },
+    {
+     "text": "M16 washers BZP",
+     "qty": 1,
+     "unit": "box",
+     "sku": "NG-10075",
+     "sku_name": "WASHER FLAT FORM A M16 BZP",
+     "expect": null
+    },
+    {
+     "text": "Tek screws 5.5 x 25",
+     "qty": 2,
+     "unit": "boxes",
+     "sku": "NG-10090",
+     "sku_name": "SELF DRILL TEK SCREW HEX 5.5x25 ZP",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r15",
+   "file": "emails/r15.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [],
+   "customer_ref": "DPE/RFQ/0619",
+   "sender": "g.lloyd@dunmore-process.example",
+   "lines": [
+    {
+     "text": "HSS drill 6mm",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10255",
+     "sku_name": "HSS-G DRILL BIT 6MM JOBBER",
+     "expect": null
+    },
+    {
+     "text": "HSS drill 8mm",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10256",
+     "sku_name": "HSS-G DRILL BIT 8MM JOBBER",
+     "expect": null
+    },
+    {
+     "text": "HSS drill 10mm",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10257",
+     "sku_name": "HSS-G DRILL BIT 10MM JOBBER",
+     "expect": null
+    },
+    {
+     "text": "Holesaw bi-metal 32mm",
+     "qty": 4,
+     "unit": null,
+     "sku": "NG-10264",
+     "sku_name": "BI-METAL HOLESAW 32MM",
+     "expect": null
+    },
+    {
+     "text": "Flap discs 115 P60",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10250",
+     "sku_name": "FLAP DISC 115MM ZIRC P60",
+     "expect": null
+    },
+    {
+     "text": "Cutting disc 230 metal",
+     "qty": 25,
+     "unit": null,
+     "sku": "NG-10248",
+     "sku_name": "CUTTING DISC 230X3.0X22 METAL",
+     "expect": null
+    },
+    {
+     "text": "Welding rods 6013 3.2",
+     "qty": 2,
+     "unit": "packs",
+     "sku": "NG-10273",
+     "sku_name": "WELDING ELECTRODE E6013 3.2MM",
+     "expect": null
+    },
+    {
+     "text": "Hacksaw blades 12in 24tpi",
+     "qty": 3,
+     "unit": "packs",
+     "sku": "NG-10266",
+     "sku_name": "HACKSAW BLADE 12\" 24TPI BI-METAL",
+     "expect": null
+    },
+    {
+     "text": "Marking paint red",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10267",
+     "sku_name": "MARKER SPRAY FLUO RED 500ML",
+     "expect": null
+    },
+    {
+     "text": "Tape measure 8m",
+     "qty": 5,
+     "unit": null,
+     "sku": "NG-10270",
+     "sku_name": "TAPE MEASURE 8M/26FT",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r16",
+   "file": "emails/r16.eml",
+   "email_class": "quote_request",
+   "format": "scan",
+   "tags": [
+    "scan"
+   ],
+   "customer_ref": null,
+   "sender": "purchasing@ridgewaybs.example",
+   "lines": [
+    {
+     "text": "Safety boots S3 size 9",
+     "qty": 4,
+     "unit": "pairs",
+     "sku": "NG-10240",
+     "sku_name": "SAFETY BOOT S3 SRC BLACK SZ 9",
+     "expect": null
+    },
+    {
+     "text": "Safety boots S3 size 10",
+     "qty": 3,
+     "unit": "pairs",
+     "sku": "NG-10241",
+     "sku_name": "SAFETY BOOT S3 SRC BLACK SZ 10",
+     "expect": null
+    },
+    {
+     "text": "Cut resistant gloves size 10",
+     "qty": 12,
+     "unit": "pairs",
+     "sku": "NG-10222",
+     "sku_name": "CUT LEVEL C GLOVE PU PALM SZ 10",
+     "expect": null
+    },
+    {
+     "text": "Orange hi-vis vest L",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10229",
+     "sku_name": "HI VIS VEST ORANGE EN20471 CL2 L",
+     "expect": null
+    },
+    {
+     "text": "Ear defenders",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10235",
+     "sku_name": "EAR DEFENDER SNR30",
+     "expect": null
+    },
+    {
+     "text": "Goggles",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10225",
+     "sku_name": "SAFETY GOGGLE INDIRECT VENT",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r17",
+   "file": "emails/r17.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [],
+   "customer_ref": "KA-44902",
+   "sender": "j.brandt@kessler-anlagenbau.example",
+   "lines": [
+    {
+     "text": "Hex bolt galvanized M16x50 8.8",
+     "qty": 300,
+     "unit": "Stk",
+     "sku": "NG-10048",
+     "sku_name": "M16x50 HEX BOLT FULL THD HDG GR8.8",
+     "expect": null
+    },
+    {
+     "text": "Hex nut hot dip galvanised M16",
+     "qty": 3,
+     "unit": "boxes",
+     "sku": "NG-10066",
+     "sku_name": "NUT HEX M16 HDG GR8",
+     "expect": null
+    },
+    {
+     "text": "Flat washer M16 zinc plated",
+     "qty": 300,
+     "unit": "Stk",
+     "sku": "NG-10075",
+     "sku_name": "WASHER FLAT FORM A M16 BZP",
+     "expect": null
+    },
+    {
+     "text": "Anchor bolt M12x120",
+     "qty": 100,
+     "unit": "Stk",
+     "sku": "NG-10085",
+     "sku_name": "THROUGHBOLT ANCHOR M12X120 BZP",
+     "expect": null
+    },
+    {
+     "text": "Chemical anchor resin 300ml",
+     "qty": 24,
+     "unit": "Stk",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r18",
+   "file": "emails/r18.eml",
+   "email_class": "quote_request",
+   "format": "body",
+   "tags": [
+    "body",
+    "ambiguous"
+   ],
+   "customer_ref": null,
+   "sender": "tbecker@atlanticmarinefab.example",
+   "lines": [
+    {
+     "text": "M10 bolts",
+     "qty": null,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "ambiguous"
+    },
+    {
+     "text": "1/2 inch lever ball valves",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10155",
+     "sku_name": "BALL VALVE LEVER F/F 1/2\" BSP BRASS PN25",
+     "expect": null
+    },
+    {
+     "text": "PTFE tape for gas (yellow)",
+     "qty": 30,
+     "unit": "rolls",
+     "sku": "NG-10275",
+     "sku_name": "PTFE TAPE GAS 12MM X 5M YELLOW",
+     "expect": null
+    },
+    {
+     "text": "pipe thread paste",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10282",
+     "sku_name": "PIPE THREAD SEALANT PASTE 400G",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r19",
+   "file": "emails/r19.eml",
+   "email_class": "quote_request",
+   "format": "docx",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "chris@moorsideph.example",
+   "lines": [
+    {
+     "text": "15mm end feed elbow",
+     "qty": 100,
+     "unit": null,
+     "sku": "NG-10133",
+     "sku_name": "END FEED ELBOW 15mm COPPER",
+     "expect": null
+    },
+    {
+     "text": "22mm end feed tee",
+     "qty": 25,
+     "unit": null,
+     "sku": "NG-10142",
+     "sku_name": "END FEED EQUAL TEE 22mm CU",
+     "expect": null
+    },
+    {
+     "text": "28mm end feed straight",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10148",
+     "sku_name": "END FEED STR COUPLER 28mm CU",
+     "expect": null
+    },
+    {
+     "text": "15mm compression straight",
+     "qty": 30,
+     "unit": null,
+     "sku": "NG-10130",
+     "sku_name": "COMP STRAIGHT COUPLER 15MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "1/2\" brass elbow female",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10118",
+     "sku_name": "BRASS ELBOW 90 1/2\" BSPP F/F",
+     "expect": null
+    },
+    {
+     "text": "3/4 brass plug",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10125",
+     "sku_name": "BRASS HEX PLUG 3/4\" BSPT MALE",
+     "expect": null
+    },
+    {
+     "text": "Copper pipe 15mm",
+     "qty": 30,
+     "unit": "m",
+     "sku": "NG-10136",
+     "sku_name": "COPPER TUBE 15MM X 3M TABLE X",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r20",
+   "file": "emails/r20.eml",
+   "email_class": "quote_request",
+   "format": "photo",
+   "tags": [
+    "photo"
+   ],
+   "customer_ref": null,
+   "sender": "priya@harrowfinch.example",
+   "lines": [
+    {
+     "text": "6mm T&E",
+     "qty": 1,
+     "unit": "drum",
+     "sku": "NG-10181",
+     "sku_name": "6242Y T&E 6MM2 GREY 100M",
+     "expect": null
+    },
+    {
+     "text": "0.75 3 core flex white",
+     "qty": 50,
+     "unit": "m",
+     "sku": "NG-10182",
+     "sku_name": "3183Y 3 CORE FLEX 0.75MM2 WHITE",
+     "expect": null
+    },
+    {
+     "text": "SWA 2.5 3 core",
+     "qty": 25,
+     "unit": "m",
+     "sku": "NG-10185",
+     "sku_name": "SWA CABLE 6943X 3C 2.5MM2",
+     "expect": null
+    },
+    {
+     "text": "20mm nylon glands",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10189",
+     "sku_name": "NYLON CABLE GLAND M20 IP68 BLK",
+     "expect": null
+    },
+    {
+     "text": "Adaptable box 100x100",
+     "qty": 6,
+     "unit": null,
+     "sku": "NG-10211",
+     "sku_name": "ADAPTABLE BOX 100X100X50 GALV",
+     "expect": null
+    },
+    {
+     "text": "5 way wago",
+     "qty": 2,
+     "unit": "boxes",
+     "sku": "NG-10214",
+     "sku_name": "LEVER CONNECTOR 5 WAY 221-415",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r21",
+   "file": "emails/r21.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [
+    "trap"
+   ],
+   "customer_ref": null,
+   "sender": "sam.okafor@brightwaterfm.example",
+   "lines": [
+    {
+     "text": "Galv tee 1\"",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10105",
+     "sku_name": "GALV M/I EQUAL TEE 1\" BSP",
+     "expect": null
+    },
+    {
+     "text": "Galv socket 1/2\"",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10096",
+     "sku_name": "GALV M/I SOCKET 1/2\" BSP",
+     "expect": null
+    },
+    {
+     "text": "Galv hex nipple 3/4\"",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10102",
+     "sku_name": "GALV HEX NIPPLE 3/4\" BSP M/M",
+     "expect": null
+    },
+    {
+     "text": "Galv reducing bush 1\" x 3/4\"",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10115",
+     "sku_name": "GALV REDUCING BUSH 1\" X 3/4\" BSP",
+     "expect": null
+    },
+    {
+     "text": "Galv elbow 1 1/4\"",
+     "qty": 8,
+     "unit": null,
+     "sku": "NG-10109",
+     "sku_name": "GALV M/I ELBOW 90DEG 1-1/4\" BSP F/F",
+     "expect": null
+    },
+    {
+     "text": "DN15 galv 90 elbow",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10094",
+     "sku_name": "GALV M/I ELBOW 90DEG 1/2\" BSP F/F",
+     "expect": null
+    },
+    {
+     "text": "Galv elbow 3\"",
+     "qty": 4,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r22",
+   "file": "emails/r22.eml",
+   "email_class": "quote_request",
+   "format": "xlsx",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "s.devries@vdberg-installatie.example",
+   "lines": [
+    {
+     "text": "Hex bolt stainless A2 M8x30",
+     "qty": 500,
+     "unit": "stuks",
+     "sku": "NG-10007",
+     "sku_name": "HEX HD BOLT M8X30 A2-70 S/S",
+     "expect": null
+    },
+    {
+     "text": "Nut M8 A2",
+     "qty": 5,
+     "unit": "boxes",
+     "sku": "NG-10055",
+     "sku_name": "NUT HEX M8 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Washer M8 A2",
+     "qty": 5,
+     "unit": "boxes",
+     "sku": "NG-10070",
+     "sku_name": "WASHER FORM A M8 A2 S/S",
+     "expect": null
+    },
+    {
+     "text": "Woodscrew 5x50 pozi",
+     "qty": 4,
+     "unit": "boxes",
+     "sku": "NG-10087",
+     "sku_name": "WOODSCREW PZ CSK 5.0x50 YZP",
+     "expect": null
+    },
+    {
+     "text": "Cable ties 370 x 7.6",
+     "qty": 5,
+     "unit": "packs",
+     "sku": "NG-10209",
+     "sku_name": "CABLE TIE 370X7.6 BLACK NYLON",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r23",
+   "file": "emails/r23.eml",
+   "email_class": "quote_request",
+   "format": "body",
+   "tags": [
+    "body",
+    "ambiguous"
+   ],
+   "customer_ref": null,
+   "sender": "k.holt@staidans-trust.example",
+   "lines": [
+    {
+     "text": "safety signs",
+     "qty": null,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    },
+    {
+     "text": "gloves",
+     "qty": 10,
+     "unit": "boxes",
+     "sku": null,
+     "sku_name": null,
+     "expect": "ambiguous"
+    },
+    {
+     "text": "Hi vis vests yellow large",
+     "qty": 30,
+     "unit": null,
+     "sku": "NG-10226",
+     "sku_name": "HI VIS VEST YELLOW EN20471 CL2 L",
+     "expect": null
+    },
+    {
+     "text": "Ear plugs",
+     "qty": 1,
+     "unit": "box",
+     "sku": "NG-10234",
+     "sku_name": "EAR PLUGS FOAM SNR37",
+     "expect": null
+    },
+    {
+     "text": "first aid kit",
+     "qty": 2,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r24",
+   "file": "emails/r24.eml",
+   "email_class": "quote_request",
+   "format": "scan",
+   "tags": [
+    "scan",
+    "volume"
+   ],
+   "customer_ref": "DPE/RFQ/0633",
+   "sender": "g.lloyd@dunmore-process.example",
+   "lines": [
+    {
+     "text": "M12 x 50 bolts BZP gr 8.8",
+     "qty": 2000,
+     "unit": null,
+     "sku": "NG-10037",
+     "sku_name": "HEX HD BOLT M12X50 8.8 BZP",
+     "expect": null
+    },
+    {
+     "text": "M12 nuts BZP",
+     "qty": 20,
+     "unit": "boxes",
+     "sku": "NG-10062",
+     "sku_name": "NUT HEX M12 BZP GR8",
+     "expect": null
+    },
+    {
+     "text": "M12 washers BZP",
+     "qty": 20,
+     "unit": "boxes",
+     "sku": "NG-10073",
+     "sku_name": "WASHER FLAT FORM A M12 BZP",
+     "expect": null
+    },
+    {
+     "text": "M6 x 30 bolt zinc",
+     "qty": 500,
+     "unit": null,
+     "sku": "NG-10002",
+     "sku_name": "HEX HD BOLT M6X30 8.8 BZP",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r25",
+   "file": "emails/r25.eml",
+   "email_class": "quote_request",
+   "format": "docx",
+   "tags": [
+    "typos"
+   ],
+   "customer_ref": null,
+   "sender": "purchasing@ridgewaybs.example",
+   "lines": [
+    {
+     "text": "Silicon sealent clear 310ml",
+     "qty": 24,
+     "unit": null,
+     "sku": "NG-10276",
+     "sku_name": "SILICONE SEALANT GP CLEAR 310ML",
+     "expect": null
+    },
+    {
+     "text": "PTFE tape 12mm",
+     "qty": 50,
+     "unit": null,
+     "sku": "NG-10274",
+     "sku_name": "PTFE TAPE 12MM X 12M WHITE",
+     "expect": null
+    },
+    {
+     "text": "Stanley blades heavy duty",
+     "qty": 2,
+     "unit": "packs",
+     "sku": "NG-10271",
+     "sku_name": "TRIMMING KNIFE BLADES HD",
+     "expect": null
+    },
+    {
+     "text": "Cutting discs 115 stainless",
+     "qty": 100,
+     "unit": null,
+     "sku": "NG-10243",
+     "sku_name": "CUTTING DISC 115X1.0X22 INOX",
+     "expect": null
+    },
+    {
+     "text": "Flap disc 40 grit 115",
+     "qty": 20,
+     "unit": null,
+     "sku": "NG-10249",
+     "sku_name": "FLAP DISC 115MM ZIRC P40",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r26",
+   "file": "emails/r26.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [
+    "body+attachment"
+   ],
+   "customer_ref": "AVM-2311",
+   "sender": "dave.hirst@airevalleymech.example",
+   "lines": [
+    {
+     "text": "M8 x 30 hex bolt zinc 8.8",
+     "qty": 200,
+     "unit": null,
+     "sku": "NG-10009",
+     "sku_name": "HEX HD BOLT M8X30 8.8 BZP",
+     "expect": null
+    },
+    {
+     "text": "M8 x 50 stainless hex bolt A2",
+     "qty": 100,
+     "unit": null,
+     "sku": "NG-10011",
+     "sku_name": "M8x50 HEX BOLT FULL THD A2-70 S/S",
+     "expect": null
+    },
+    {
+     "text": "M8 washers zinc",
+     "qty": 2,
+     "unit": "boxes",
+     "sku": "NG-10069",
+     "sku_name": "WASHER FLAT FORM A M8 BZP",
+     "expect": null
+    },
+    {
+     "text": "M8 nuts BZP",
+     "qty": 2,
+     "unit": "boxes",
+     "sku": "NG-10056",
+     "sku_name": "NUT HEX M8 BZP GR8",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r27",
+   "file": "emails/r27.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [],
+   "customer_ref": "KA-45010",
+   "sender": "j.brandt@kessler-anlagenbau.example",
+   "lines": [
+    {
+     "text": "Ball valve 3/4 butterfly handle",
+     "qty": 30,
+     "unit": "Stk",
+     "sku": "NG-10165",
+     "sku_name": "BALL VALVE BUTTERFLY HANDLE 3/4\" F/F",
+     "expect": null
+    },
+    {
+     "text": "Isolation valve 15mm slotted",
+     "qty": 40,
+     "unit": "Stk",
+     "sku": "NG-10173",
+     "sku_name": "ISOLATING VALVE 15MM COMP CHROME SLOT",
+     "expect": null
+    },
+    {
+     "text": "Cable gland M32 brass armoured",
+     "qty": 10,
+     "unit": "Stk",
+     "sku": "NG-10192",
+     "sku_name": "CW GLAND M32 BRASS SWA",
+     "expect": null
+    },
+    {
+     "text": "MCB C32",
+     "qty": 12,
+     "unit": "Stk",
+     "sku": "NG-10200",
+     "sku_name": "MCB 32A TYPE C 1P 10KA",
+     "expect": null
+    },
+    {
+     "text": "Pressure gauge 0-10 bar 63mm",
+     "qty": 6,
+     "unit": "Stk",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    }
+   ]
+  },
+  {
+   "id": "r28",
+   "file": "emails/r28.eml",
+   "email_class": "quote_request",
+   "format": "xlsx",
+   "tags": [
+    "ambiguous",
+    "units"
+   ],
+   "customer_ref": null,
+   "sender": "priya@harrowfinch.example",
+   "lines": [
+    {
+     "text": "MCB 32A",
+     "qty": 10,
+     "unit": null,
+     "sku": null,
+     "sku_name": null,
+     "expect": "ambiguous"
+    },
+    {
+     "text": "T&E 2.5",
+     "qty": 250,
+     "unit": "m",
+     "sku": "NG-10179",
+     "sku_name": "6242Y T&E 2.5MM2 GREY 100M",
+     "expect": null
+    },
+    {
+     "text": "Junction box 30A",
+     "qty": 15,
+     "unit": null,
+     "sku": "NG-10210",
+     "sku_name": "JUNCTION BOX 30A 4 TERMINAL",
+     "expect": null
+    },
+    {
+     "text": "Insulation tape black",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10215",
+     "sku_name": "INSULATION TAPE 19MM X 20M BLACK",
+     "expect": null
+    },
+    {
+     "text": "Flex 1mm 3 core",
+     "qty": 100,
+     "unit": "m",
+     "sku": "NG-10183",
+     "sku_name": "3183Y 3 CORE FLEX 1MM2 WHITE",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r29",
+   "file": "emails/r29.eml",
+   "email_class": "quote_request",
+   "format": "handwritten",
+   "tags": [
+    "photo",
+    "handwritten"
+   ],
+   "customer_ref": null,
+   "sender": "chris@moorsideph.example",
+   "lines": [
+    {
+     "text": "15mm iso valves",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10173",
+     "sku_name": "ISOLATING VALVE 15MM COMP CHROME SLOT",
+     "expect": null
+    },
+    {
+     "text": "22mm comp elbows",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10138",
+     "sku_name": "COMP ELBOW 22MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "15mm comp tees",
+     "qty": 12,
+     "unit": null,
+     "sku": "NG-10132",
+     "sku_name": "COMP EQUAL TEE 15MM BRASS",
+     "expect": null
+    },
+    {
+     "text": "PTFE",
+     "qty": 10,
+     "unit": null,
+     "sku": "NG-10274",
+     "sku_name": "PTFE TAPE 12MM X 12M WHITE",
+     "expect": null
+    },
+    {
+     "text": "Jointing compound",
+     "qty": 1,
+     "unit": null,
+     "sku": "NG-10286",
+     "sku_name": "JOINTING COMPOUND 400G TUB",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "r30",
+   "file": "emails/r30.eml",
+   "email_class": "quote_request",
+   "format": "pdf_table",
+   "tags": [
+    "trap"
+   ],
+   "customer_ref": "AMF-RFQ-0912",
+   "sender": "tbecker@atlanticmarinefab.example",
+   "lines": [
+    {
+     "text": "Hex bolt 316 SS M12 x 50",
+     "qty": 600,
+     "unit": "pcs",
+     "sku": "NG-10036",
+     "sku_name": "Bolt hex A4-80 S/S M12 x 50",
+     "expect": null
+    },
+    {
+     "text": "Hex bolt 316 SS M12 x 80",
+     "qty": 300,
+     "unit": "pcs",
+     "sku": "NG-10040",
+     "sku_name": "HEX HD BOLT M12X80 A4-80 S/S",
+     "expect": null
+    },
+    {
+     "text": "Washer flat 316 SS M12",
+     "qty": 900,
+     "unit": "pcs",
+     "sku": null,
+     "sku_name": null,
+     "expect": "not_in_catalogue"
+    },
+    {
+     "text": "Nitrile gloves XL",
+     "qty": 20,
+     "unit": "boxes",
+     "sku": "NG-10219",
+     "sku_name": "NITRILE GLOVE P/F BLUE XL",
+     "expect": null
+    },
+    {
+     "text": "Marking spray fluorescent yellow",
+     "qty": 24,
+     "unit": null,
+     "sku": "NG-10268",
+     "sku_name": "MARKER SPRAY FLUO YELLOW 500ML",
+     "expect": null
+    }
+   ]
+  },
+  {
+   "id": "n01",
+   "file": "emails/n01.eml",
+   "email_class": "purchase_order",
+   "format": "po_pdf",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "sam.okafor@brightwaterfm.example",
+   "lines": []
+  },
+  {
+   "id": "n02",
+   "file": "emails/n02.eml",
+   "email_class": "reminder",
+   "format": "none",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "chris@moorsideph.example",
+   "lines": []
+  },
+  {
+   "id": "n03",
+   "file": "emails/n03.eml",
+   "email_class": "other",
+   "format": "none",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "sales@pennine-fixings-ltd.example",
+   "lines": []
+  },
+  {
+   "id": "n04",
+   "file": "emails/n04.eml",
+   "email_class": "other",
+   "format": "none",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "priya@harrowfinch.example",
+   "lines": []
+  },
+  {
+   "id": "n05",
+   "file": "emails/n05.eml",
+   "email_class": "other",
+   "format": "none",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "news@safehands-workwear.example",
+   "lines": []
+  },
+  {
+   "id": "n06",
+   "file": "emails/n06.eml",
+   "email_class": "other",
+   "format": "none",
+   "tags": [],
+   "customer_ref": null,
+   "sender": "purchasing@ridgewaybs.example",
+   "lines": []
+  }
+ ]
+}

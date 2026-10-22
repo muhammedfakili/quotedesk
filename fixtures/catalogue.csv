@@ -1,0 +1,289 @@
+sku,name,category,unit,pack_qty,base_unit,cost_gbp,stock,lead_days,supplier
+NG-10001,M6x30 HEX BOLT FULL THD A2-70 S/S,fasteners,each,1,each,0.6,25,3,Pennine Fixings Ltd
+NG-10002,HEX HD BOLT M6X30 8.8 BZP,fasteners,each,1,each,0.25,3,10,Pennine Fixings Ltd
+NG-10003,HEX HD BOLT M6X30 HDG GR8.8,fasteners,each,1,each,0.4,0,2,Pennine Fixings Ltd
+NG-10004,HEX HD BOLT M6X50 A2-70 S/S,fasteners,each,1,each,0.94,250,10,Pennine Fixings Ltd
+NG-10005,HEX HD BOLT M6X50 8.8 BZP,fasteners,each,1,each,0.41,250,7,Pennine Fixings Ltd
+NG-10006,HEX HD BOLT M6X50 HDG GR8.8,fasteners,each,1,each,0.61,25,2,Pennine Fixings Ltd
+NG-10007,HEX HD BOLT M8X30 A2-70 S/S,fasteners,each,1,each,1.07,40,5,Pennine Fixings Ltd
+NG-10008,HEX HD BOLT M8X30 A4-80 S/S,fasteners,each,1,each,1.49,40,2,Pennine Fixings Ltd
+NG-10009,HEX HD BOLT M8X30 8.8 BZP,fasteners,each,1,each,0.43,40,5,Pennine Fixings Ltd
+NG-10010,M8x30 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,0.63,0,7,Pennine Fixings Ltd
+NG-10011,M8x50 HEX BOLT FULL THD A2-70 S/S,fasteners,each,1,each,1.56,60,2,Pennine Fixings Ltd
+NG-10012,M8x50 HEX BOLT FULL THD A4-80 S/S,fasteners,each,1,each,2.4,500,5,Pennine Fixings Ltd
+NG-10013,M8x50 HEX BOLT FULL THD 8.8 BZP,fasteners,each,1,each,0.66,3,2,Pennine Fixings Ltd
+NG-10014,M8x50 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,0.99,25,2,Pennine Fixings Ltd
+NG-10015,HEX HD BOLT M8X80 A2-70 S/S,fasteners,each,1,each,2.73,60,5,Pennine Fixings Ltd
+NG-10016,Bolt hex A4-80 S/S M8 x 80,fasteners,each,1,each,3.95,40,3,Pennine Fixings Ltd
+NG-10017,Bolt hex 8.8 BZP M8 x 80,fasteners,each,1,each,1.05,25,2,Pennine Fixings Ltd
+NG-10018,M8x80 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,1.65,250,3,Pennine Fixings Ltd
+NG-10019,HEX HD BOLT M10X30 A2-70 S/S,fasteners,each,1,each,1.55,25,10,Pennine Fixings Ltd
+NG-10020,HEX HD BOLT M10X30 A4-80 S/S,fasteners,each,1,each,2.41,0,3,Pennine Fixings Ltd
+NG-10021,HEX HD BOLT M10X30 8.8 BZP,fasteners,each,1,each,0.68,60,5,Pennine Fixings Ltd
+NG-10022,HEX HD BOLT M10X30 HDG GR8.8,fasteners,each,1,each,0.93,500,5,Pennine Fixings Ltd
+NG-10023,HEX HD BOLT M10X50 A2-70 S/S,fasteners,each,1,each,2.58,60,7,Pennine Fixings Ltd
+NG-10024,HEX HD BOLT M10X50 A4-80 S/S,fasteners,each,1,each,3.64,12,10,Pennine Fixings Ltd
+NG-10025,M10x50 HEX BOLT FULL THD 8.8 BZP,fasteners,each,1,each,1.01,500,7,Pennine Fixings Ltd
+NG-10026,M10x50 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,1.55,12,3,Pennine Fixings Ltd
+NG-10027,M10x80 HEX BOLT FULL THD A2-70 S/S,fasteners,each,1,each,3.96,0,2,Pennine Fixings Ltd
+NG-10028,HEX HD BOLT M10X80 A4-80 S/S,fasteners,each,1,each,6.06,60,10,Pennine Fixings Ltd
+NG-10029,HEX HD BOLT M10X80 8.8 BZP,fasteners,each,1,each,1.62,500,7,Pennine Fixings Ltd
+NG-10030,M10x80 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,2.38,250,2,Pennine Fixings Ltd
+NG-10031,M12x30 HEX BOLT FULL THD A2-70 S/S,fasteners,each,1,each,2.27,250,5,Pennine Fixings Ltd
+NG-10032,M12x30 HEX BOLT FULL THD A4-80 S/S,fasteners,each,1,each,3.21,25,7,Pennine Fixings Ltd
+NG-10033,HEX HD BOLT M12X30 8.8 BZP,fasteners,each,1,each,0.91,25,10,Pennine Fixings Ltd
+NG-10034,HEX HD BOLT M12X30 HDG GR8.8,fasteners,each,1,each,1.37,3,5,Pennine Fixings Ltd
+NG-10035,M12x50 HEX BOLT FULL THD A2-70 S/S,fasteners,each,1,each,3.58,12,3,Pennine Fixings Ltd
+NG-10036,Bolt hex A4-80 S/S M12 x 50,fasteners,each,1,each,5.59,250,10,Pennine Fixings Ltd
+NG-10037,HEX HD BOLT M12X50 8.8 BZP,fasteners,each,1,each,1.51,120,2,Pennine Fixings Ltd
+NG-10038,HEX HD BOLT M12X50 HDG GR8.8,fasteners,each,1,each,2.39,25,3,Pennine Fixings Ltd
+NG-10039,HEX HD BOLT M12X80 A2-70 S/S,fasteners,each,1,each,5.42,500,2,Pennine Fixings Ltd
+NG-10040,HEX HD BOLT M12X80 A4-80 S/S,fasteners,each,1,each,8.79,3,10,Pennine Fixings Ltd
+NG-10041,HEX HD BOLT M12X80 8.8 BZP,fasteners,each,1,each,2.21,120,10,Pennine Fixings Ltd
+NG-10042,HEX HD BOLT M12X80 HDG GR8.8,fasteners,each,1,each,3.4,500,7,Pennine Fixings Ltd
+NG-10043,HEX HD BOLT M16X30 A2-70 S/S,fasteners,each,1,each,4.07,12,5,Pennine Fixings Ltd
+NG-10044,Bolt hex 8.8 BZP M16 x 30,fasteners,each,1,each,1.71,40,7,Pennine Fixings Ltd
+NG-10045,M16x30 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,2.36,12,3,Pennine Fixings Ltd
+NG-10046,HEX HD BOLT M16X50 A2-70 S/S,fasteners,each,1,each,6.1,500,10,Pennine Fixings Ltd
+NG-10047,HEX HD BOLT M16X50 8.8 BZP,fasteners,each,1,each,2.65,0,2,Pennine Fixings Ltd
+NG-10048,M16x50 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,4.0,12,2,Pennine Fixings Ltd
+NG-10049,HEX HD BOLT M16X80 A2-70 S/S,fasteners,each,1,each,10.52,3,10,Pennine Fixings Ltd
+NG-10050,HEX HD BOLT M16X80 8.8 BZP,fasteners,each,1,each,4.0,120,3,Pennine Fixings Ltd
+NG-10051,M16x80 HEX BOLT FULL THD HDG GR8.8,fasteners,each,1,each,5.85,500,10,Pennine Fixings Ltd
+NG-10052,NUT HEX M6 A2 S/S,fasteners,box of 100,100,each,31.54,120,7,Pennine Fixings Ltd
+NG-10053,NUT HEX M6 BZP GR8,fasteners,box of 100,100,each,12.55,3,7,Pennine Fixings Ltd
+NG-10054,NUT HEX M6 HDG GR8,fasteners,box of 100,100,each,19.34,60,7,Pennine Fixings Ltd
+NG-10055,NUT HEX M8 A2 S/S,fasteners,box of 100,100,each,39.62,0,2,Pennine Fixings Ltd
+NG-10056,NUT HEX M8 BZP GR8,fasteners,box of 100,100,each,14.5,40,2,Pennine Fixings Ltd
+NG-10057,NUT HEX M8 HDG GR8,fasteners,box of 100,100,each,22.46,12,10,Pennine Fixings Ltd
+NG-10058,NUT HEX M10 A2 S/S,fasteners,box of 100,100,each,42.84,60,3,Pennine Fixings Ltd
+NG-10059,NUT HEX M10 BZP GR8,fasteners,box of 100,100,each,17.36,12,2,Pennine Fixings Ltd
+NG-10060,NUT HEX M10 HDG GR8,fasteners,box of 100,100,each,26.75,250,2,Pennine Fixings Ltd
+NG-10061,NUT HEX M12 A2 S/S,fasteners,box of 100,100,each,45.44,250,2,Pennine Fixings Ltd
+NG-10062,NUT HEX M12 BZP GR8,fasteners,box of 100,100,each,21.93,12,3,Pennine Fixings Ltd
+NG-10063,NUT HEX M12 HDG GR8,fasteners,box of 100,100,each,30.14,120,3,Pennine Fixings Ltd
+NG-10064,NUT HEX M16 A2 S/S,fasteners,box of 100,100,each,64.01,0,3,Pennine Fixings Ltd
+NG-10065,NUT HEX M16 BZP GR8,fasteners,box of 100,100,each,24.71,60,5,Pennine Fixings Ltd
+NG-10066,NUT HEX M16 HDG GR8,fasteners,box of 100,100,each,40.38,120,5,Pennine Fixings Ltd
+NG-10067,WASHER FLAT FORM A M6 BZP,fasteners,box of 100,100,each,8.69,250,7,Pennine Fixings Ltd
+NG-10068,WASHER FORM A M6 A2 S/S,fasteners,box of 100,100,each,19.95,25,3,Pennine Fixings Ltd
+NG-10069,WASHER FLAT FORM A M8 BZP,fasteners,box of 100,100,each,11.18,500,10,Pennine Fixings Ltd
+NG-10070,WASHER FORM A M8 A2 S/S,fasteners,box of 100,100,each,23.21,40,2,Pennine Fixings Ltd
+NG-10071,WASHER FLAT FORM A M10 BZP,fasteners,box of 100,100,each,11.14,120,10,Pennine Fixings Ltd
+NG-10072,WASHER FORM A M10 A2 S/S,fasteners,box of 100,100,each,30.73,250,3,Pennine Fixings Ltd
+NG-10073,WASHER FLAT FORM A M12 BZP,fasteners,box of 100,100,each,12.64,250,2,Pennine Fixings Ltd
+NG-10074,WASHER FORM A M12 A2 S/S,fasteners,box of 100,100,each,34.47,3,10,Pennine Fixings Ltd
+NG-10075,WASHER FLAT FORM A M16 BZP,fasteners,box of 100,100,each,15.64,12,7,Pennine Fixings Ltd
+NG-10076,WASHER FORM A M16 A2 S/S,fasteners,box of 100,100,each,37.87,500,3,Pennine Fixings Ltd
+NG-10077,STUDDING M8 X 1M BZP,fasteners,each,1,each,2.03,0,10,Pennine Fixings Ltd
+NG-10078,THREADED ROD M8 X 1M A2 S/S,fasteners,each,1,each,5.97,500,10,Pennine Fixings Ltd
+NG-10079,STUDDING M10 X 1M BZP,fasteners,each,1,each,2.51,25,3,Pennine Fixings Ltd
+NG-10080,THREADED ROD M10 X 1M A2 S/S,fasteners,each,1,each,8.22,40,3,Pennine Fixings Ltd
+NG-10081,STUDDING M12 X 1M BZP,fasteners,each,1,each,2.89,8,5,Pennine Fixings Ltd
+NG-10082,THREADED ROD M12 X 1M A2 S/S,fasteners,each,1,each,9.53,3,2,Pennine Fixings Ltd
+NG-10083,THROUGHBOLT ANCHOR M8X75 BZP,fasteners,each,1,each,2.58,500,2,Pennine Fixings Ltd
+NG-10084,THROUGHBOLT ANCHOR M10X95 BZP,fasteners,each,1,each,3.73,12,10,Pennine Fixings Ltd
+NG-10085,THROUGHBOLT ANCHOR M12X120 BZP,fasteners,each,1,each,5.74,40,2,Pennine Fixings Ltd
+NG-10086,WOODSCREW PZ CSK 4.0x40 YZP,fasteners,box of 200,200,each,16.97,40,5,Pennine Fixings Ltd
+NG-10087,WOODSCREW PZ CSK 5.0x50 YZP,fasteners,box of 200,200,each,17.96,250,5,Pennine Fixings Ltd
+NG-10088,WOODSCREW PZ CSK 6.0x80 YZP,fasteners,box of 200,200,each,22.39,250,2,Pennine Fixings Ltd
+NG-10089,SELF DRILL TEK SCREW HEX 4.8x19 ZP,fasteners,box of 100,100,each,6.67,250,5,Pennine Fixings Ltd
+NG-10090,SELF DRILL TEK SCREW HEX 5.5x25 ZP,fasteners,box of 100,100,each,6.95,3,3,Pennine Fixings Ltd
+NG-10091,COACH SCREW HEX HD 8x60 BZP,fasteners,each,1,each,1.21,3,10,Pennine Fixings Ltd
+NG-10092,COACH SCREW HEX HD 10x100 BZP,fasteners,each,1,each,2.17,25,10,Pennine Fixings Ltd
+NG-10093,COACH SCREW HEX HD 12x150 BZP,fasteners,each,1,each,3.72,40,3,Pennine Fixings Ltd
+NG-10094,"GALV M/I ELBOW 90DEG 1/2"" BSP F/F",pipe_fittings,each,1,each,1.65,25,10,Calder Brass & Iron
+NG-10095,"GALV M/I EQUAL TEE 1/2"" BSP",pipe_fittings,each,1,each,2.1,0,2,Calder Brass & Iron
+NG-10096,"GALV M/I SOCKET 1/2"" BSP",pipe_fittings,each,1,each,1.12,25,2,Calder Brass & Iron
+NG-10097,"GALV HEX NIPPLE 1/2"" BSP M/M",pipe_fittings,each,1,each,0.92,8,5,Calder Brass & Iron
+NG-10098,"GALV M/I UNION F/F 1/2""",pipe_fittings,each,1,each,3.97,120,10,Calder Brass & Iron
+NG-10099,"GALV M/I ELBOW 90DEG 3/4"" BSP F/F",pipe_fittings,each,1,each,2.31,250,2,Calder Brass & Iron
+NG-10100,"GALV M/I EQUAL TEE 3/4"" BSP",pipe_fittings,each,1,each,2.76,8,10,Calder Brass & Iron
+NG-10101,"GALV M/I SOCKET 3/4"" BSP",pipe_fittings,each,1,each,1.43,40,10,Calder Brass & Iron
+NG-10102,"GALV HEX NIPPLE 3/4"" BSP M/M",pipe_fittings,each,1,each,1.41,60,3,Calder Brass & Iron
+NG-10103,"GALV M/I UNION F/F 3/4""",pipe_fittings,each,1,each,5.45,40,2,Calder Brass & Iron
+NG-10104,"GALV M/I ELBOW 90DEG 1"" BSP F/F",pipe_fittings,each,1,each,3.57,12,3,Calder Brass & Iron
+NG-10105,"GALV M/I EQUAL TEE 1"" BSP",pipe_fittings,each,1,each,4.53,40,10,Calder Brass & Iron
+NG-10106,"GALV M/I SOCKET 1"" BSP",pipe_fittings,each,1,each,2.45,60,10,Calder Brass & Iron
+NG-10107,"GALV HEX NIPPLE 1"" BSP M/M",pipe_fittings,each,1,each,2.18,12,3,Calder Brass & Iron
+NG-10108,"GALV M/I UNION F/F 1""",pipe_fittings,each,1,each,9.49,8,7,Calder Brass & Iron
+NG-10109,"GALV M/I ELBOW 90DEG 1-1/4"" BSP F/F",pipe_fittings,each,1,each,5.03,40,7,Calder Brass & Iron
+NG-10110,"GALV M/I EQUAL TEE 1-1/4"" BSP",pipe_fittings,each,1,each,7.49,12,5,Calder Brass & Iron
+NG-10111,"GALV M/I SOCKET 1-1/4"" BSP",pipe_fittings,each,1,each,3.54,3,7,Calder Brass & Iron
+NG-10112,"GALV HEX NIPPLE 1-1/4"" BSP M/M",pipe_fittings,each,1,each,3.6,120,3,Calder Brass & Iron
+NG-10113,"GALV M/I UNION F/F 1-1/4""",pipe_fittings,each,1,each,13.59,120,5,Calder Brass & Iron
+NG-10114,"GALV REDUCING BUSH 3/4"" X 1/2"" BSP",pipe_fittings,each,1,each,1.76,12,3,Calder Brass & Iron
+NG-10115,"GALV REDUCING BUSH 1"" X 3/4"" BSP",pipe_fittings,each,1,each,2.52,12,7,Calder Brass & Iron
+NG-10116,"GALV REDUCING BUSH 1"" X 1/2"" BSP",pipe_fittings,each,1,each,2.65,3,5,Calder Brass & Iron
+NG-10117,"GALV REDUCING BUSH 1-1/4"" X 1"" BSP",pipe_fittings,each,1,each,4.31,250,7,Calder Brass & Iron
+NG-10118,"BRASS ELBOW 90 1/2"" BSPP F/F",pipe_fittings,each,1,each,2.98,250,5,Calder Brass & Iron
+NG-10119,"BRASS EQUAL TEE 1/2"" BSPP FFF",pipe_fittings,each,1,each,4.07,3,5,Calder Brass & Iron
+NG-10120,"BRASS HEX NIPPLE 1/2"" BSPP",pipe_fittings,each,1,each,1.8,25,2,Calder Brass & Iron
+NG-10121,"BRASS HEX PLUG 1/2"" BSPT MALE",pipe_fittings,each,1,each,1.41,60,5,Calder Brass & Iron
+NG-10122,"BRASS ELBOW 90 3/4"" BSPP F/F",pipe_fittings,each,1,each,4.21,40,7,Calder Brass & Iron
+NG-10123,"BRASS EQUAL TEE 3/4"" BSPP FFF",pipe_fittings,each,1,each,5.41,250,2,Calder Brass & Iron
+NG-10124,"BRASS HEX NIPPLE 3/4"" BSPP",pipe_fittings,each,1,each,2.61,500,3,Calder Brass & Iron
+NG-10125,"BRASS HEX PLUG 3/4"" BSPT MALE",pipe_fittings,each,1,each,2.02,60,2,Calder Brass & Iron
+NG-10126,"BRASS ELBOW 90 1"" BSPP F/F",pipe_fittings,each,1,each,6.11,250,3,Calder Brass & Iron
+NG-10127,"BRASS EQUAL TEE 1"" BSPP FFF",pipe_fittings,each,1,each,7.81,3,5,Calder Brass & Iron
+NG-10128,"BRASS HEX NIPPLE 1"" BSPP",pipe_fittings,each,1,each,4.07,3,5,Calder Brass & Iron
+NG-10129,"BRASS HEX PLUG 1"" BSPT MALE",pipe_fittings,each,1,each,3.15,60,5,Calder Brass & Iron
+NG-10130,COMP STRAIGHT COUPLER 15MM BRASS,pipe_fittings,each,1,each,1.38,25,10,Calder Brass & Iron
+NG-10131,COMP ELBOW 15MM BRASS,pipe_fittings,each,1,each,1.6,60,7,Calder Brass & Iron
+NG-10132,COMP EQUAL TEE 15MM BRASS,pipe_fittings,each,1,each,2.47,8,10,Calder Brass & Iron
+NG-10133,END FEED ELBOW 15mm COPPER,pipe_fittings,each,1,each,0.45,60,10,Calder Brass & Iron
+NG-10134,END FEED STR COUPLER 15mm CU,pipe_fittings,each,1,each,0.32,25,5,Calder Brass & Iron
+NG-10135,END FEED EQUAL TEE 15mm CU,pipe_fittings,each,1,each,0.76,500,10,Calder Brass & Iron
+NG-10136,COPPER TUBE 15MM X 3M TABLE X,pipe_fittings,length (3 m),3,m,7.69,120,7,Calder Brass & Iron
+NG-10137,COMP STRAIGHT COUPLER 22MM BRASS,pipe_fittings,each,1,each,2.64,12,10,Calder Brass & Iron
+NG-10138,COMP ELBOW 22MM BRASS,pipe_fittings,each,1,each,3.22,8,2,Calder Brass & Iron
+NG-10139,COMP EQUAL TEE 22MM BRASS,pipe_fittings,each,1,each,4.4,500,5,Calder Brass & Iron
+NG-10140,END FEED ELBOW 22mm COPPER,pipe_fittings,each,1,each,0.8,12,5,Calder Brass & Iron
+NG-10141,END FEED STR COUPLER 22mm CU,pipe_fittings,each,1,each,0.54,12,3,Calder Brass & Iron
+NG-10142,END FEED EQUAL TEE 22mm CU,pipe_fittings,each,1,each,1.4,12,7,Calder Brass & Iron
+NG-10143,COPPER TUBE 22MM X 3M TABLE X,pipe_fittings,length (3 m),3,m,14.5,3,7,Calder Brass & Iron
+NG-10144,COMP STRAIGHT COUPLER 28MM BRASS,pipe_fittings,each,1,each,4.56,500,3,Calder Brass & Iron
+NG-10145,COMP ELBOW 28MM BRASS,pipe_fittings,each,1,each,5.81,60,7,Calder Brass & Iron
+NG-10146,COMP EQUAL TEE 28MM BRASS,pipe_fittings,each,1,each,7.79,8,2,Calder Brass & Iron
+NG-10147,END FEED ELBOW 28mm COPPER,pipe_fittings,each,1,each,1.58,3,7,Calder Brass & Iron
+NG-10148,END FEED STR COUPLER 28mm CU,pipe_fittings,each,1,each,0.95,250,7,Calder Brass & Iron
+NG-10149,END FEED EQUAL TEE 28mm CU,pipe_fittings,each,1,each,2.45,12,2,Calder Brass & Iron
+NG-10150,COPPER TUBE 28MM X 3M TABLE X,pipe_fittings,length (3 m),3,m,24.58,120,10,Calder Brass & Iron
+NG-10151,PUSHFIT STR COUPLER 15MM WHITE,pipe_fittings,each,1,each,1.94,500,5,Calder Brass & Iron
+NG-10152,PUSHFIT ELBOW 15MM WHITE,pipe_fittings,each,1,each,2.25,120,10,Calder Brass & Iron
+NG-10153,PUSHFIT STR COUPLER 22MM WHITE,pipe_fittings,each,1,each,3.59,250,7,Calder Brass & Iron
+NG-10154,PUSHFIT ELBOW 22MM WHITE,pipe_fittings,each,1,each,4.2,250,7,Calder Brass & Iron
+NG-10155,"BALL VALVE LEVER F/F 1/2"" BSP BRASS PN25",valves,each,1,each,4.79,120,7,Calder Brass & Iron
+NG-10156,"BALL VALVE LEVER F/F 3/4"" BSP BRASS PN25",valves,each,1,each,6.49,12,5,Calder Brass & Iron
+NG-10157,"BALL VALVE LEVER F/F 1"" BSP BRASS PN25",valves,each,1,each,10.79,250,7,Calder Brass & Iron
+NG-10158,"BALL VALVE LEVER F/F 1-1/4"" BSP BRASS PN25",valves,each,1,each,16.53,25,7,Calder Brass & Iron
+NG-10159,"BALL VALVE LEVER F/F 1-1/2"" BSP BRASS PN25",valves,each,1,each,20.14,25,3,Calder Brass & Iron
+NG-10160,"BALL VALVE LEVER F/F 2"" BSP BRASS PN25",valves,each,1,each,30.35,40,10,Calder Brass & Iron
+NG-10161,"BALL VALVE BUTTERFLY HANDLE 1/2"" F/F",valves,each,1,each,3.82,8,3,Calder Brass & Iron
+NG-10162,"GATE VALVE BRONZE 1/2"" BSP",valves,each,1,each,7.65,8,3,Calder Brass & Iron
+NG-10163,"SWING CHECK VALVE BRASS 1/2""",valves,each,1,each,5.77,60,5,Calder Brass & Iron
+NG-10164,"Y-STRAINER BRASS 1/2"" BSP",valves,each,1,each,7.05,60,2,Calder Brass & Iron
+NG-10165,"BALL VALVE BUTTERFLY HANDLE 3/4"" F/F",valves,each,1,each,5.86,60,7,Calder Brass & Iron
+NG-10166,"GATE VALVE BRONZE 3/4"" BSP",valves,each,1,each,12.46,500,2,Calder Brass & Iron
+NG-10167,"SWING CHECK VALVE BRASS 3/4""",valves,each,1,each,9.83,500,7,Calder Brass & Iron
+NG-10168,"Y-STRAINER BRASS 3/4"" BSP",valves,each,1,each,10.46,40,5,Calder Brass & Iron
+NG-10169,"BALL VALVE BUTTERFLY HANDLE 1"" F/F",valves,each,1,each,9.81,60,10,Calder Brass & Iron
+NG-10170,"GATE VALVE BRONZE 1"" BSP",valves,each,1,each,18.65,250,10,Calder Brass & Iron
+NG-10171,"SWING CHECK VALVE BRASS 1""",valves,each,1,each,15.17,120,3,Calder Brass & Iron
+NG-10172,"Y-STRAINER BRASS 1"" BSP",valves,each,1,each,15.52,120,2,Calder Brass & Iron
+NG-10173,ISOLATING VALVE 15MM COMP CHROME SLOT,valves,each,1,each,1.87,60,3,Calder Brass & Iron
+NG-10174,ISOLATING VALVE 22MM COMP CHROME SLOT,valves,each,1,each,3.37,8,10,Calder Brass & Iron
+NG-10175,"PRESSURE REDUCING VALVE 1/2"" 1-6 BAR",valves,each,1,each,24.13,60,10,Calder Brass & Iron
+NG-10176,"PRESSURE REDUCING VALVE 3/4"" 1-6 BAR",valves,each,1,each,31.32,0,2,Calder Brass & Iron
+NG-10177,6242Y T&E 1MM2 GREY 100M,electrical,drum (100 m),100,m,38.87,8,7,Volta Electrical Wholesale
+NG-10178,6242Y T&E 1.5MM2 GREY 100M,electrical,drum (100 m),100,m,49.35,25,7,Volta Electrical Wholesale
+NG-10179,6242Y T&E 2.5MM2 GREY 100M,electrical,drum (100 m),100,m,75.85,120,5,Volta Electrical Wholesale
+NG-10180,6242Y T&E 4MM2 GREY 100M,electrical,drum (100 m),100,m,124.67,60,5,Volta Electrical Wholesale
+NG-10181,6242Y T&E 6MM2 GREY 100M,electrical,drum (100 m),100,m,189.34,60,5,Volta Electrical Wholesale
+NG-10182,3183Y 3 CORE FLEX 0.75MM2 WHITE,electrical,m,1,m,0.44,120,2,Volta Electrical Wholesale
+NG-10183,3183Y 3 CORE FLEX 1MM2 WHITE,electrical,m,1,m,0.57,0,5,Volta Electrical Wholesale
+NG-10184,3183Y 3 CORE FLEX 1.5MM2 WHITE,electrical,m,1,m,0.71,3,2,Volta Electrical Wholesale
+NG-10185,SWA CABLE 6943X 3C 2.5MM2,electrical,m,1,m,2.19,12,3,Volta Electrical Wholesale
+NG-10186,SWA CABLE 6943X 3C 4MM2,electrical,m,1,m,3.06,500,3,Volta Electrical Wholesale
+NG-10187,SWA CABLE 6943X 3C 6MM2,electrical,m,1,m,3.74,120,2,Volta Electrical Wholesale
+NG-10188,CW GLAND M20 BRASS SWA,electrical,each,1,each,1.62,12,7,Volta Electrical Wholesale
+NG-10189,NYLON CABLE GLAND M20 IP68 BLK,electrical,each,1,each,0.5,40,3,Volta Electrical Wholesale
+NG-10190,CW GLAND M25 BRASS SWA,electrical,each,1,each,2.44,3,3,Volta Electrical Wholesale
+NG-10191,NYLON CABLE GLAND M25 IP68 BLK,electrical,each,1,each,0.77,3,10,Volta Electrical Wholesale
+NG-10192,CW GLAND M32 BRASS SWA,electrical,each,1,each,3.6,25,10,Volta Electrical Wholesale
+NG-10193,NYLON CABLE GLAND M32 IP68 BLK,electrical,each,1,each,1.2,60,7,Volta Electrical Wholesale
+NG-10194,MCB 6A TYPE B 1P 6KA,electrical,each,1,each,3.64,12,2,Volta Electrical Wholesale
+NG-10195,MCB 16A TYPE B 1P 6KA,electrical,each,1,each,3.45,12,2,Volta Electrical Wholesale
+NG-10196,MCB 20A TYPE B 1P 6KA,electrical,each,1,each,3.51,25,10,Volta Electrical Wholesale
+NG-10197,MCB 32A TYPE B 1P 6KA,electrical,each,1,each,3.57,500,2,Volta Electrical Wholesale
+NG-10198,MCB 40A TYPE B 1P 6KA,electrical,each,1,each,3.32,60,5,Volta Electrical Wholesale
+NG-10199,MCB 16A TYPE C 1P 10KA,electrical,each,1,each,5.21,40,2,Volta Electrical Wholesale
+NG-10200,MCB 32A TYPE C 1P 10KA,electrical,each,1,each,5.91,120,2,Volta Electrical Wholesale
+NG-10201,RCD 63A 30MA 2P TYPE A,electrical,each,1,each,17.31,40,7,Volta Electrical Wholesale
+NG-10202,RCBO 32A 30MA TYPE B 1P+N,electrical,each,1,each,16.43,60,3,Volta Electrical Wholesale
+NG-10203,PVC CONDUIT 20MM X 3M WHITE HD,electrical,length (3 m),3,m,3.11,25,10,Volta Electrical Wholesale
+NG-10204,PVC SPACER BAR SADDLE 20MM,electrical,pack of 100,100,each,2.2,250,7,Volta Electrical Wholesale
+NG-10205,PVC CONDUIT 25MM X 3M WHITE HD,electrical,length (3 m),3,m,3.38,500,5,Volta Electrical Wholesale
+NG-10206,PVC SPACER BAR SADDLE 25MM,electrical,pack of 100,100,each,2.04,12,2,Volta Electrical Wholesale
+NG-10207,CABLE TIE 200X4.8 BLACK NYLON,electrical,pack of 100,100,each,1.35,120,3,Volta Electrical Wholesale
+NG-10208,CABLE TIE 300X4.8 BLACK NYLON,electrical,pack of 100,100,each,2.18,500,10,Volta Electrical Wholesale
+NG-10209,CABLE TIE 370X7.6 BLACK NYLON,electrical,pack of 100,100,each,4.93,40,2,Volta Electrical Wholesale
+NG-10210,JUNCTION BOX 30A 4 TERMINAL,electrical,each,1,each,1.3,40,3,Volta Electrical Wholesale
+NG-10211,ADAPTABLE BOX 100X100X50 GALV,electrical,each,1,each,2.4,40,5,Volta Electrical Wholesale
+NG-10212,DOUBLE SWITCHED SOCKET 13A WHITE,electrical,each,1,each,2.53,500,5,Volta Electrical Wholesale
+NG-10213,LEVER CONNECTOR 3 WAY 221-413,electrical,box of 50,50,each,9.89,250,3,Volta Electrical Wholesale
+NG-10214,LEVER CONNECTOR 5 WAY 221-415,electrical,box of 25,25,each,12.51,60,7,Volta Electrical Wholesale
+NG-10215,INSULATION TAPE 19MM X 20M BLACK,electrical,roll,1,each,0.45,12,7,Volta Electrical Wholesale
+NG-10216,NITRILE GLOVE P/F BLUE S,ppe,box of 100,100,each,3.99,120,7,SafeHands Workwear
+NG-10217,NITRILE GLOVE P/F BLUE M,ppe,box of 100,100,each,4.08,3,5,SafeHands Workwear
+NG-10218,NITRILE GLOVE P/F BLUE L,ppe,box of 100,100,each,3.73,12,5,SafeHands Workwear
+NG-10219,NITRILE GLOVE P/F BLUE XL,ppe,box of 100,100,each,4.0,40,7,SafeHands Workwear
+NG-10220,CUT LEVEL C GLOVE PU PALM SZ 8,ppe,pair,1,each,2.22,40,7,SafeHands Workwear
+NG-10221,CUT LEVEL C GLOVE PU PALM SZ 9,ppe,pair,1,each,2.37,250,5,SafeHands Workwear
+NG-10222,CUT LEVEL C GLOVE PU PALM SZ 10,ppe,pair,1,each,2.15,120,5,SafeHands Workwear
+NG-10223,SAFETY SPECS CLEAR AF EN166,ppe,each,1,each,1.07,12,2,SafeHands Workwear
+NG-10224,SAFETY SPECS SMOKE EN166,ppe,each,1,each,1.24,40,2,SafeHands Workwear
+NG-10225,SAFETY GOGGLE INDIRECT VENT,ppe,each,1,each,2.7,8,3,SafeHands Workwear
+NG-10226,HI VIS VEST YELLOW EN20471 CL2 L,ppe,each,1,each,0.91,120,5,SafeHands Workwear
+NG-10227,HI VIS VEST YELLOW EN20471 CL2 XL,ppe,each,1,each,0.98,250,10,SafeHands Workwear
+NG-10228,HI VIS VEST YELLOW EN20471 CL2 XXL,ppe,each,1,each,0.92,3,3,SafeHands Workwear
+NG-10229,HI VIS VEST ORANGE EN20471 CL2 L,ppe,each,1,each,0.92,40,3,SafeHands Workwear
+NG-10230,HI VIS VEST ORANGE EN20471 CL2 XL,ppe,each,1,each,0.92,250,3,SafeHands Workwear
+NG-10231,HI VIS VEST ORANGE EN20471 CL2 XXL,ppe,each,1,each,0.92,0,10,SafeHands Workwear
+NG-10232,SAFETY HELMET WHITE EN397,ppe,each,1,each,3.29,8,7,SafeHands Workwear
+NG-10233,SAFETY HELMET YELLOW EN397,ppe,each,1,each,3.18,0,10,SafeHands Workwear
+NG-10234,EAR PLUGS FOAM SNR37,ppe,box of 200 pairs,200,pair,9.17,120,7,SafeHands Workwear
+NG-10235,EAR DEFENDER SNR30,ppe,each,1,each,6.63,0,5,SafeHands Workwear
+NG-10236,DUST MASK FFP2 VALVED,ppe,box of 10,10,each,11.78,120,2,SafeHands Workwear
+NG-10237,DUST MASK FFP3 VALVED,ppe,box of 10,10,each,17.35,60,7,SafeHands Workwear
+NG-10238,SAFETY BOOT S3 SRC BLACK SZ 7,ppe,pair,1,each,19.57,0,3,SafeHands Workwear
+NG-10239,SAFETY BOOT S3 SRC BLACK SZ 8,ppe,pair,1,each,19.82,500,5,SafeHands Workwear
+NG-10240,SAFETY BOOT S3 SRC BLACK SZ 9,ppe,pair,1,each,19.61,12,2,SafeHands Workwear
+NG-10241,SAFETY BOOT S3 SRC BLACK SZ 10,ppe,pair,1,each,21.2,60,10,SafeHands Workwear
+NG-10242,SAFETY BOOT S3 SRC BLACK SZ 11,ppe,pair,1,each,21.32,500,3,SafeHands Workwear
+NG-10243,CUTTING DISC 115X1.0X22 INOX,tools_consumables,each,1,each,1.05,60,7,Abrasives Direct UK
+NG-10244,CUTTING DISC 115X3.0X22 METAL,tools_consumables,each,1,each,0.89,25,10,Abrasives Direct UK
+NG-10245,CUTTING DISC 125X1.0X22 INOX,tools_consumables,each,1,each,1.13,25,10,Abrasives Direct UK
+NG-10246,CUTTING DISC 125X3.0X22 METAL,tools_consumables,each,1,each,0.88,500,2,Abrasives Direct UK
+NG-10247,CUTTING DISC 230X1.0X22 INOX,tools_consumables,each,1,each,1.58,12,3,Abrasives Direct UK
+NG-10248,CUTTING DISC 230X3.0X22 METAL,tools_consumables,each,1,each,1.17,3,3,Abrasives Direct UK
+NG-10249,FLAP DISC 115MM ZIRC P40,tools_consumables,each,1,each,1.1,250,2,Abrasives Direct UK
+NG-10250,FLAP DISC 115MM ZIRC P60,tools_consumables,each,1,each,1.09,60,7,Abrasives Direct UK
+NG-10251,FLAP DISC 115MM ZIRC P80,tools_consumables,each,1,each,1.18,120,5,Abrasives Direct UK
+NG-10252,HSS-G DRILL BIT 3MM JOBBER,tools_consumables,each,1,each,0.81,25,5,Abrasives Direct UK
+NG-10253,HSS-G DRILL BIT 4MM JOBBER,tools_consumables,each,1,each,1.07,120,2,Abrasives Direct UK
+NG-10254,HSS-G DRILL BIT 5MM JOBBER,tools_consumables,each,1,each,1.24,25,10,Abrasives Direct UK
+NG-10255,HSS-G DRILL BIT 6MM JOBBER,tools_consumables,each,1,each,1.4,12,7,Abrasives Direct UK
+NG-10256,HSS-G DRILL BIT 8MM JOBBER,tools_consumables,each,1,each,1.58,12,3,Abrasives Direct UK
+NG-10257,HSS-G DRILL BIT 10MM JOBBER,tools_consumables,each,1,each,2.13,8,2,Abrasives Direct UK
+NG-10258,HSS-G DRILL BIT 12MM JOBBER,tools_consumables,each,1,each,2.16,25,10,Abrasives Direct UK
+NG-10259,SDS+ MASONRY BIT 6X160,tools_consumables,each,1,each,1.89,500,5,Abrasives Direct UK
+NG-10260,SDS+ MASONRY BIT 8X160,tools_consumables,each,1,each,2.04,120,5,Abrasives Direct UK
+NG-10261,SDS+ MASONRY BIT 10X160,tools_consumables,each,1,each,2.37,25,10,Abrasives Direct UK
+NG-10262,SDS+ MASONRY BIT 12X160,tools_consumables,each,1,each,2.56,120,2,Abrasives Direct UK
+NG-10263,BI-METAL HOLESAW 25MM,tools_consumables,each,1,each,5.03,60,5,Abrasives Direct UK
+NG-10264,BI-METAL HOLESAW 32MM,tools_consumables,each,1,each,5.53,0,2,Abrasives Direct UK
+NG-10265,BI-METAL HOLESAW 51MM,tools_consumables,each,1,each,6.48,500,10,Abrasives Direct UK
+NG-10266,"HACKSAW BLADE 12"" 24TPI BI-METAL",tools_consumables,pack of 10,10,each,6.97,25,10,Abrasives Direct UK
+NG-10267,MARKER SPRAY FLUO RED 500ML,tools_consumables,each,1,each,2.87,8,7,Abrasives Direct UK
+NG-10268,MARKER SPRAY FLUO YELLOW 500ML,tools_consumables,each,1,each,3.11,120,5,Abrasives Direct UK
+NG-10269,TAPE MEASURE 5M/16FT,tools_consumables,each,1,each,2.75,500,7,Abrasives Direct UK
+NG-10270,TAPE MEASURE 8M/26FT,tools_consumables,each,1,each,4.49,120,2,Abrasives Direct UK
+NG-10271,TRIMMING KNIFE BLADES HD,tools_consumables,pack of 100,100,each,2.29,60,5,Abrasives Direct UK
+NG-10272,WELDING ELECTRODE E6013 2.5MM,tools_consumables,pack (5 kg),5,kg,8.74,3,3,Abrasives Direct UK
+NG-10273,WELDING ELECTRODE E6013 3.2MM,tools_consumables,pack (5 kg),5,kg,9.14,120,5,Abrasives Direct UK
+NG-10274,PTFE TAPE 12MM X 12M WHITE,sealants_adhesives,roll,1,each,0.23,60,10,SealTech Chemicals
+NG-10275,PTFE TAPE GAS 12MM X 5M YELLOW,sealants_adhesives,roll,1,each,0.32,3,5,SealTech Chemicals
+NG-10276,SILICONE SEALANT GP CLEAR 310ML,sealants_adhesives,each,1,each,1.63,3,7,SealTech Chemicals
+NG-10277,SILICONE SEALANT GP WHITE 310ML,sealants_adhesives,each,1,each,1.8,0,10,SealTech Chemicals
+NG-10278,SILICONE SEALANT GP BLACK 310ML,sealants_adhesives,each,1,each,1.69,0,3,SealTech Chemicals
+NG-10279,SANITARY SILICONE WHITE 310ML,sealants_adhesives,each,1,each,2.61,500,7,SealTech Chemicals
+NG-10280,THREADLOCKER MED STRENGTH BLUE 50ML,sealants_adhesives,each,1,each,6.94,0,3,SealTech Chemicals
+NG-10281,THREADLOCKER HIGH STRENGTH RED 50ML,sealants_adhesives,each,1,each,7.32,8,5,SealTech Chemicals
+NG-10282,PIPE THREAD SEALANT PASTE 400G,sealants_adhesives,each,1,each,4.85,120,2,SealTech Chemicals
+NG-10283,EXPANDING PU FOAM GUN GRADE 750ML,sealants_adhesives,each,1,each,3.88,500,3,SealTech Chemicals
+NG-10284,EPOXY PUTTY STICK 114G,sealants_adhesives,each,1,each,3.41,25,10,SealTech Chemicals
+NG-10285,GRAB ADHESIVE HIGH TACK 290ML,sealants_adhesives,each,1,each,2.67,60,2,SealTech Chemicals
+NG-10286,JOINTING COMPOUND 400G TUB,sealants_adhesives,each,1,each,3.44,3,7,SealTech Chemicals
+NG-10287,DUCT TAPE 50MM X 50M SILVER,sealants_adhesives,roll,1,each,2.04,8,7,SealTech Chemicals
+NG-10288,ACRYLIC DECORATORS CAULK WHITE,sealants_adhesives,each,1,each,1.18,25,10,SealTech Chemicals

@@ -1,0 +1,16 @@
+{
+  "_note": "Margin is gross margin on the selling price: price = cost / (1 - margin). Edit this file to change pricing; app/pricing.py only applies it.",
+  "margin_by_customer_type": {
+    "retail":     {"fasteners": 0.45, "pipe_fittings": 0.42, "valves": 0.40, "electrical": 0.38, "ppe": 0.45, "tools_consumables": 0.42, "sealants_adhesives": 0.45},
+    "trade":      {"fasteners": 0.35, "pipe_fittings": 0.32, "valves": 0.30, "electrical": 0.28, "ppe": 0.35, "tools_consumables": 0.32, "sealants_adhesives": 0.35},
+    "contractor": {"fasteners": 0.30, "pipe_fittings": 0.28, "valves": 0.26, "electrical": 0.24, "ppe": 0.30, "tools_consumables": 0.28, "sealants_adhesives": 0.30},
+    "oem":        {"fasteners": 0.24, "pipe_fittings": 0.22, "valves": 0.20, "electrical": 0.18, "ppe": 0.25, "tools_consumables": 0.22, "sealants_adhesives": 0.25}
+  },
+  "payment_terms_adjustment": {"prepaid": -0.02, "net30": 0.0, "net60": 0.02},
+  "volume_break": {"line_cost_gbp_at_least": 500, "margin_reduction": 0.03},
+  "minimum_margin": 0.15,
+  "fx_rates_per_gbp": {"GBP": 1.0, "EUR": 1.17, "USD": 1.27},
+  "fx_rates_date": "2026-10-01",
+  "vat_rate_gbp": 0.20,
+  "quote_validity_days": 30
+}

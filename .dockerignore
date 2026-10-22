@@ -1,0 +1,14 @@
+.env
+.venv
+data
+dersler
+CLAUDE.md
+eval/cache
+eval/results
+*.log
+.git
+.pytest_cache
+.ruff_cache
+**/__pycache__
+docs
+tests
